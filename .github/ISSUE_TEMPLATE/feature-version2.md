@@ -1,5 +1,5 @@
 ---
-name: Feature version2 Template
+name: Feature version2
 about: 'Describe this Feature version2 '
 title: ''
 labels: ''
